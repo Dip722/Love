@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+
+<stop offset="0%" stop-color="#ff4d88"></stop>
+
+<stop offset="50%" stop-color="#ff87b2"></stop>
+
+<stop offset="100%" stop-color="#ffd1dc"></stop>
+
+</linearGradient>
+
+</defs>
+
+<rect width="1920" height="1080" fill="url(#bg)"></rect>
+
+<!-- Stars -->
+
+<g fill="white">
+
+<circle cx="200" cy="180" r="3"></circle>
+
+<circle cx="450" cy="120" r="2"></circle>
+
+<circle cx="850" cy="260" r="4"></circle>
+
+<circle cx="1250" cy="160" r="3"></circle>
+
+<circle cx="1650" cy="240" r="2"></circle>
+
+<circle cx="1450" cy="450" r="3"></circle>
+
+<circle cx="950" cy="620" r="4"></circle>
+
+<circle cx="500" cy="720" r="3"></circle>
+
+<circle cx="1700" cy="780" r="3"></circle>
+
+</g>
+
+</svg>

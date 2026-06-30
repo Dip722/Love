@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="450" viewBox="0 0 500 450">
+
+<!-- Girl -->
+
+<circle cx="200" cy="120" r="42" fill="#FFD8B5"></circle>
+
+<path d="M160 110
+Q200 25 240 110
+L240 140
+Q200 165 160 140Z" fill="#40210f"></path>
+
+<path d="M165 165
+Q200 140 235 165
+L245 300
+L155 300Z" fill="#ff6ea9"></path>
+
+<!-- Boy -->
+
+<circle cx="300" cy="120" r="42" fill="#FFD8B5"></circle>
+
+<path d="M260 112
+Q300 28 340 112
+L340 140
+Q300 160 260 140Z" fill="#202020"></path>
+
+<path d="M260 165
+Q300 140 340 165
+L350 300
+L250 300Z" fill="#5d8dff"></path>
+
+<!-- Holding Hands -->
+
+<line x1="225" y1="225" x2="275" y2="225" stroke="#FFD8B5" stroke-width="8"></line>
+
+<!-- Heart -->
+
+<path d="M250 70
+C235 45 205 45 205 72
+C205 95 250 125 250 125
+C250 125 295 95 295 72
+C295 45 265 45 250 70Z" fill="#ff2d55"></path>
+
+</svg>
